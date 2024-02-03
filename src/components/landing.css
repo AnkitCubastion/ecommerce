@@ -1,0 +1,12 @@
+.product-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.product-subcontainer {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+}

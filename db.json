@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "d069",
+      "name": "Ankit",
+      "email": "ankit@gmail.com",
+      "password": "87654321"
+    },
+    {
+      "id": "6d8a",
+      "name": "Dell",
+      "email": "dell@gmail.com",
+      "password": "23456"
+    },
+    {
+      "id": "cfe5",
+      "name": "Ankit",
+      "email": "ankit@mail.com",
+      "password": "12345"
+    }
+  ]
+}
